@@ -9,3 +9,7 @@ HTML.
 ## Como executar
 
 Abra o arquivo index.html em qualquer navegador.
+
+## Autoria
+
+elaborado por Rafaela Ribeiro Witzke.
